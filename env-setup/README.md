@@ -1,17 +1,14 @@
-# zynq ultrascale+
-ZYNQ Ultrascale+ related projects
-
-Environment:  
+Environments:  
 1.macOS Big Sur(11.5 Beta)  
 2.Parallels(16.1.2)  
 3.Ubuntu(18.04.01)  
   
-Tools:  
+Xilinx Tools:  
 Vivado 2020.1  
 Vitis:2020.1  
 Petalinux:2020.3(I tried to use 2020.1, but there will be error about yocto when executing "petalinux-build", but 2020.3 can avoid that error)
   
-Hardware:  
+Xilinx Hardware:  
 xczu15eg
   
 # Petalinux Installation  
