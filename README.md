@@ -9,7 +9,7 @@ Environment:
 Tools:  
 Vivado 2020.1  
 Vitis:2020.1  
-Petalinux:2020.3  
+Petalinux:2020.3(I tried to use 2020.1, but there will be error about yocto when executing "petalinux-build", but 2020.3 can avoid that error)
   
 Hardware:  
 xczu15eg
