@@ -49,7 +49,7 @@ source /tools/Xilinx/PetaLinux/2020.3/settings.sh
 1.AppStore install Xcode  
 2.Download and install [MacPorts](https://www.macports.org/install.php) [MacPorts Details](https://www.macports.org/)  
 3.Try to lanuch purry on MAC terminal, error "cannot open display" occur. Installing [Quartz](https://www.xquartz.org/) can solve this problem  
-4.Using the following cmd to List the uart port in mac,  
+4.Using the following cmd to list the availiable uart port in mac,  
 ```
 ls /dev/tty.*
 ```
