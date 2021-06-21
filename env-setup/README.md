@@ -7,12 +7,12 @@ OS:
 3.Ubuntu(18.04.01)  
   
 Xilinx Tools:  
-Vivado 2020.1  
-Vitis:2020.1  
-Petalinux:2020.3(I tried to use 2020.1, but there will be error about yocto when executing "petalinux-build", but 2020.3 can avoid that error)
+1.Vivado 2020.1  
+2.Vitis:2020.1  
+3.Petalinux:2020.3(I tried to use 2020.1, but there will be error about yocto when executing "petalinux-build", but 2020.3 can avoid that error)
   
 Xilinx Hardware:  
-xczu15eg
+1.xczu15eg
   
 # Petalinux Installation  
 1.Create Petalinux installation direction:  
