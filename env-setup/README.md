@@ -44,4 +44,13 @@ sudo apt-get install <pkg-name>
 ```
 source /tools/Xilinx/PetaLinux/2020.3/settings.sh
 ```
-
+# macOS Debudding Tools
+## Putty Installation 
+1.AppStore install Xcode  
+2.Download and install [MacPorts](https://www.macports.org/install.php) [MacPorts Details](https://www.macports.org/)  
+3.Try to lanuch purry on MAC terminal, error "cannot open display" occur. Installing [Quartz](https://www.xquartz.org/) can solve this problem  
+4.Using the following cmd to List the uart port in mac,  
+```
+ls /dev/tty.*
+```
+5.Put "putty" on mac terminal again to launch Putty, select Serial in and put the debugging uart port into "Serial line", set the "Speed" tp 115200, then click open.  
