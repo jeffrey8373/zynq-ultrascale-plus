@@ -53,4 +53,4 @@ source /tools/Xilinx/PetaLinux/2020.3/settings.sh
 ```
 ls /dev/tty.*
 ```
-5.Put "putty" on mac terminal again to launch Putty, select Serial in and put the debugging uart port into "Serial line", set the "Speed" tp 115200, then click open.  
+5.Put "putty" on mac terminal again to launch Putty, select "Serial" in the Putty and put the debugging uart port into "Serial line"(such as "/dev/tty.usbserial-123456"), set the "Speed" tp 115200, then click open.  
