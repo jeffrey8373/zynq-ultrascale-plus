@@ -110,7 +110,10 @@
 
 
 
+# Petalinux Setup
 
+1.Create a petalinux project, named as "petalinux", which type is "project" and using "zynqMP" template  
+'petalinux-create -t project -n petalinux --template zynqMP'
 
 
 
