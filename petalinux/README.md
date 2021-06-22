@@ -92,6 +92,17 @@
 <img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-23-29.jpeg>  
 
 12.Select Block design, right click "Create HDL Wrapper..." to create a wrapper for block design using verilog/VHDL  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_11-27-35.jpeg>  
+
+13.Keep default selection and click "OK"  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_11-28-01.jpeg>  
+
+14. Select block design, right click "Generate Output Products", which will generate a output file for block, it includs IP, instance model, RTL source file, XDC constraint, etc.  Then Click "Generate" button in the next setp  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_11-28-38.jpeg>  
+
+15. "File->export->Export Hardware" to expert hardware information, which include the PS configuration parameters.  
+
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_11-29-20.jpeg>  
 
 
 
