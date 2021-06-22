@@ -36,6 +36,69 @@
 
 <img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-12-16.jpeg>  
 
+6.5 Configure UART 0  
+
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-13-09.jpeg>  
+
+6.6 Select TTC 0 ~ TTC 3  
+
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-13-41.jpeg>  
+
+7. High Speed Configuration  
+7.1 Enternet Configuration  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-14-11.jpeg>  
+
+7.2 USB Configuration  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-15-01.jpeg>  
+
+7.3 PCIe Configuration  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-16-25.jpeg>  
+
+7.4 Click "Switch To Advanced Mode" and configure PCIe parameters as followling  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-17-19.jpeg>  
+
+7.5 Go back to "I/O Configuration", configure PCIe and Display Port  
+
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-18-05.jpeg>  
+
+8. Clock configuration  
+8.1 Select "Clock Configuration" in the left side, and configure "GT Lane Reference frequency"  
+
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-18-28.jpeg>  
+
+8.2 Configure "Output Clocks"  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-19-06.jpeg>  
+
+8.3 Configure "PL Fabric Clocks"  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-19-33.jpeg>  
+
+8.4 Configure "Full Power Domain Clocks"  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-20-08.jpeg>  
+
+8.5 Interconnection configuration  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-21-05.jpeg>  
+
+9.DDR Configuration  
+
+9.1 Select ”DDR4_MICRON_MT40A256M16GE_083E” in Load DDR Presets.  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-22-38.jpeg>  
+
+9.2 Change some parameters  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-23-06.jpeg>  
+
+10. The ZYNQ UltraScale+ IP configuration has finished  
+
+11. Connect "pl_clk0" to "maxlhpm0_ldp_aclk"  
+<img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-23-29.jpeg>  
+
+12.Select Block design, right click "Create HDL Wrapper..." to create a wrapper for block design using verilog/VHDL  
+
+
+
+
+
+
+
 
 
 
