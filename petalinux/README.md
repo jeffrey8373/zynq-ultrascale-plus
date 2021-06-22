@@ -113,7 +113,14 @@
 # Petalinux Setup
 
 1.Create a petalinux project, named as "petalinux", which type is "project" and using "zynqMP" template  
-'petalinux-create -t project -n petalinux --template zynqMP'
+`petalinux-create -t project -n petalinux --template zynqMP`
 
+2.Using the following cmd to enter the petalinux dirextion  
+`cd ./petalinux`
+
+3.Configure the Petalinux hardware parameters, make sure there is only on .xsa file 
+`petalinux-config --get-hw-description = ./../`
+
+4.The configuration UI will show, configure it as the follwing picture shows and save the change, exit the UI and waiting for configureation finish
 
 
