@@ -44,7 +44,7 @@
 
 <img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-13-41.jpeg>  
 
-7. High Speed Configuration  
+7 High Speed Configuration  
 7.1 Enternet Configuration  
 <img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-14-11.jpeg>  
 
@@ -61,7 +61,7 @@
 
 <img width="300" height="300" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-18-05.jpeg>  
 
-8. Clock configuration  
+8 Clock configuration  
 8.1 Select "Clock Configuration" in the left side, and configure "GT Lane Reference frequency"  
 
 <img width="600" height="300" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-18-28.jpeg>  
@@ -107,7 +107,6 @@
 16.There will be a .xsa file in your project  
 
 <img width="250" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_11-38-32.jpeg>  
-
 
 
 
