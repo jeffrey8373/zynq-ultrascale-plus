@@ -8,8 +8,20 @@
 3.Enter the "Design name" and click "ok" button  
 <img width="250" height="250" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_09-24-42.jpeg>  
 
-4.Click the "Add IP" button in the Diagram, then search and select "zynq" IP  
+4.Click the "Add IP" button in the Diagram, then search "zynq", and select "Zynq UltraScale+ MPSoC"  
 
 <img width="500" height="200" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_09-30-03.jpeg>  
 
-5.Double click the ZYNQ IP in the block and start to configure parameters  
+5.Double click the ZYNQ IP in the block and start to configure parameters. The ZYNQ hardware architecture will show, ug1085 has detailed introductions for each part.  
+
+<img width="500" height="300" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_09-31-54.jpeg>  
+
+6.Low Speed Configuration
+6.1 Select "I/O Configuration" in the left side, configure the BANK0~BANK2's voltage according to your hardware design. Besides, configure the QSPI as the following picture shows
+
+<img width="500" height="300" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-07-41.jpeg>  
+
+
+
+
+
