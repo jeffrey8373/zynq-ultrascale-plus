@@ -3,7 +3,7 @@
 1.Create a project in Vivdao  
 2.Click "Create Block Design" to create a new block design.  
 
-<img width="500" height="300" div align=center src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_09-10-32.jpeg>  
+<img width="500" height="300" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_09-10-32.jpeg div align=center />  
 
 3.Enter the "Design name" and click "ok" button  
 <img width="250" height="250" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_09-24-42.jpeg>  
