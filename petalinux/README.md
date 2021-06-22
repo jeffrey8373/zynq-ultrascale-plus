@@ -16,12 +16,12 @@
 
 <img width="500" height="300" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_09-31-54.jpeg>  
 
-6.Low Speed Configuration(Please refer to your hardware design)
+6.Low Speed Configuration(Please refer to your hardware design)  
 6.1 Select "I/O Configuration" in the left side, configure the BANK0~BANK2's voltage according to your hardware design. Besides, configure the QSPI as the following picture shows  
 
 <img width="500" height="400" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_10-07-41.jpeg>  
 
-6.2 Configure SD0
+6.2 Configure SD0  
 <img width="500" height="400" src=https://github.com/jeffrey8373/zynq-ultrascale-plus/blob/main/petalinux/pictures/Xnip2021-06-22_09-55-27.jpeg>  
 
 6.3 Configure SD1  
